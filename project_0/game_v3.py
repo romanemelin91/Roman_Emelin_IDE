@@ -9,6 +9,7 @@ def game_core_v3(number: int = np.random.randint(1, 101)) -> int:
     Returns:
         int: Number of attempts
     """
+    
     #number of attempts
     count = 0
     #minimum number
