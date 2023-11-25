@@ -30,8 +30,3 @@ print(ordered_client_ages)
 ordered_client_ages['Andrey'] = 23
 print(ordered_client_ages)
 # OrderedDict([('Ivan', 19), ('Mark', 25), ('Maria', 20), ('Nikita', 18), ('Andrey', 23)])
-
-import sys
-print(sys.version)
-# 3.4.3 (default, Nov 12 2018, 22:25:49)
-# [GCC 4.8.4]
